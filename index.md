@@ -852,12 +852,12 @@
   </div>
 
   <div class="hero-content">
-    <div class="hero-tag">PhD Researcher · ENSIAS &amp; INSA–UPHF · Co-tutelle</div>
+    <div class="hero-tag">PhD Researcher · ENSIAS–UM5 &amp; INSA–UPHF · Co-tutelle</div>
     <h1 class="hero-name">Adil <em>Attiaoui</em></h1>
     <p class="hero-subtitle">
       Researching <strong>Vehicular Collective Perception Misbehavior Detection &amp; Mitigation</strong>
       in a co-tutelle PhD between <strong>ENSIAS, Mohammed V University</strong> (Morocco) and
-      <strong>INSA–UPHF</strong> (France). Exploring the intersection of cybersecurity, federated learning,
+      <strong>INSA, Hauts-de-France Polytechnic University</strong> (France). Exploring the intersection of cybersecurity, federated learning,
       and intelligent transportation systems.
     </p>
     <div class="hero-badges">

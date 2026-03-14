@@ -914,7 +914,7 @@
     <div class="info-grid">
       <div class="info-item">
         <span class="info-label">Email</span>
-        <span class="info-val"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6607020f0a510712120f0709130f26010b070f0a4805090b">[email&#160;protected]</a></span>
+        <span class="info-val">adil7attiaoui@gmail.com</span>
       </div>
       <div class="info-item">
         <span class="info-label">Phone</span>
@@ -922,7 +922,7 @@
       </div>
       <div class="info-item">
         <span class="info-label">Location</span>
-        <span class="info-val">Salé, Morocco</span>
+        <span class="info-val">Rabat, Morocco</span>
       </div>
       <div class="info-item">
         <span class="info-label">Status</span>

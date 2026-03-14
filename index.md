@@ -853,7 +853,7 @@
 
   <div class="hero-content">
     <div class="hero-tag">PhD Researcher · ENSIAS &amp; INSA–UPHF · Co-tutelle</div>
-    <h1 class="hero-name">Adil<br><em>Attiaoui</em></h1>
+    <h1 class="hero-name">Adil<em>Attiaoui</em></h1>
     <p class="hero-subtitle">
       Researching <strong>Vehicular Collective Perception Misbehavior Detection &amp; Mitigation</strong>
       in a co-tutelle PhD between <strong>ENSIAS, Mohammed V University</strong> (Morocco) and

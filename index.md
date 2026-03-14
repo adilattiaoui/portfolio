@@ -253,7 +253,7 @@
         <div class="sidebar-label">Contact</div>
         <div class="sidebar-val">
           <a href="mailto:adil7attiaoui@gmail.com">adil7attiaoui@gmail.com</a><br>
-          +212 636 793 114<br>
+          +212 0000000000<br>
           Salé, Morocco 11160
         </div>
       </div>

@@ -671,23 +671,23 @@
   <div class="teach-list">
     <div class="teach-item">
       <div class="teach-icon">🖥️</div>
-      <div class="teach-text">Conducted <strong>Unix System Administration</strong> lab sessions for second-year engineering students.</div>
+      <div class="teach-text">Conducted <strong>Unix System Administration</strong> lab sessions for second-year engineering students at ENSIAS.</div>
     </div>
     <div class="teach-item">
       <div class="teach-icon">📡</div>
-      <div class="teach-text">Delivered tutorials in <strong>Enterprise Networking (CCNA 1)</strong> for first-year engineering students.</div>
+      <div class="teach-text">Delivered tutorials in <strong>Enterprise Networking (CCNA 1)</strong> for first-year engineering students at ENSIAS.</div>
     </div>
     <div class="teach-item">
       <div class="teach-icon">🔬</div>
-      <div class="teach-text">Led practical lab sessions in <strong>Enterprise Networking (CCNA 1)</strong> for first-year engineering students.</div>
+      <div class="teach-text">Led practical lab sessions in <strong>Enterprise Networking (CCNA 1)</strong> for first-year engineering students at ENSIAS.</div>
     </div>
     <div class="teach-item">
       <div class="teach-icon">🌐</div>
-      <div class="teach-text">Conducted <strong>IoT and WAN Technologies</strong> lab sessions for second-year engineering students.</div>
+      <div class="teach-text">Conducted <strong>IoT and WAN Technologies</strong> lab sessions for second-year engineering students at ENSIAS.</div>
     </div>
     <div class="teach-item">
       <div class="teach-icon">🎓</div>
-      <div class="teach-text">Co-supervised <strong>two Final Year Projects (FYPs)</strong> for second-year engineering students.</div>
+      <div class="teach-text">Co-supervised <strong>two Final Year Projects (FYPs)</strong> for second-year engineering students at ENSIAS.</div>
     </div>
   </div>
 </section>

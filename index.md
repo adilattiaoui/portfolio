@@ -736,7 +736,7 @@
     <div class="contact-links">
       <a class="contact-link" href="mailto:adil7attiaoui@gmail.com">✉ adil7attiaoui@gmail.com</a>
       <a class="contact-link" href="https://www.linkedin.com/in/adil-attiaoui" target="_blank">in LinkedIn</a>
-      <a class="contact-link" href="tel:+212636793114">☎ +212 636 793 114</a>
+      <a class="contact-link" href="tel:+212636793114">☎ +33 765 124 470</a>
     </div>
   </div>
 </section>

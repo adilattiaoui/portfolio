@@ -512,7 +512,7 @@
       <div class="tl-date">10/2023 — Present</div>
       <div class="tl-degree">PhD in Vehicular Collective Perception Misbehavior Detection &amp; Mitigation</div>
       <div class="tl-school">ENSIAS, Mohammed V University · Rabat, Morocco</div>
-      <div class="tl-school">in co-tutelle with INSA–UPHF · France</div>
+      <div class="tl-school">in co-tutelle with INSA Hauts-de-France, Polytechnic University of Hauts-de-France · Valenciennes, France</div>
     </div>
     <div class="timeline-item">
       <div class="timeline-dot"></div>
@@ -551,7 +551,21 @@
     <div class="section-line"></div>
   </div>
   <div class="pub-list">
-
+    
+     <div class="pub-card">
+      <div class="pub-venue">Internet of Things · Volume 34, November 2025 <span class="pub-class">Quartile Q1 </span></div>
+      <div class="pub-title">Trust-aware and game-theoretic cooperative detection of misbehavior in connected vehicles</div>
+      <div class="pub-authors"><strong>A. Attiaoui</strong>, M. Elmachkour, A. Kobbane, M. Ayaida, H. Tembine</div>
+      <div class="pub-doi">doi: 10.1016/j.iot.2025.101799</div>
+    </div>
+    
+    <div class="pub-card">
+      <div class="pub-venue">CommNet 2025 · Rabat, Morocco </div>
+      <div class="pub-title">Blockchained Federated Learning for Secure and Privacy-Preserving Internet of Vehicles: A Comprehensive Review</div>
+      <div class="pub-authors"><strong>A. Attiaoui</strong>, A. Kobbane,   M. Ayaida, M. Elmachkour, Y. El Hillali</div>
+      <div class="pub-doi">doi: 10.1109/CommNet68224.2025.11288848</div>
+    </div>
+    
     <div class="pub-card">
       <div class="pub-venue">VEHITS 2025 · Porto, Portugal <span class="pub-class">Class C</span></div>
       <div class="pub-title">Misbehavior Detection in Connected Vehicle: Pre-Bayesian Majority Game Framework</div>

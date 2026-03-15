@@ -39,7 +39,7 @@
       position: fixed;
       inset: 0;
       background-image: radial-gradient(circle, rgba(26,86,219,0.06) 1px, transparent 1px);
-      background-size: 75px 75px;
+      background-size: 28px 28px;
       pointer-events: none;
       z-index: 0;
     }

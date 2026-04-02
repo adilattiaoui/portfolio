@@ -800,6 +800,7 @@
       <div>
         <div class="exp-role">Research Internship</div>
         <div class="exp-org">Laboratory of ENSIAS — National School of Computer Science and Systems Analysis</div>
+         <div class="fyp-student" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">Conducted research on a blockchain-enabled defense mechanism for securing federated learning systems against malicious node updates. The work focused on enhancing trust, integrity, and robustness in decentralized learning environments by detecting and mitigating adversarial contributions. Implemented and evaluated security strategies combining federated learning with blockchain technologies to ensure reliable model aggregation.</div>
       </div>
     </div>
     <div class="exp-item">
@@ -807,6 +808,7 @@
       <div>
         <div class="exp-role">Internship</div>
         <div class="exp-org">E-Viande Company, Zaouiat SIDI ISMAIL</div>
+         <div class="exp-org" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">Developed an IoT-based system for monitoring the availability of electrical energy. The solution involved real-time data acquisition from sensors, system integration, and visualization of energy status to improve operational efficiency and reliability. The project demonstrated practical applications of IoT in industrial environments.</div>
       </div>
     </div>
     <div class="exp-item">

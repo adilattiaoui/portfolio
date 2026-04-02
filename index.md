@@ -442,9 +442,9 @@
 
   <!-- Tab buttons -->
   <div class="skills-tabs">
-    <button class="skills-tab" onclick="showTab('certifications')">Certifications</button>
+    <button class="skills-tab active" onclick="showTab('certifications')">Certifications</button>
     <button class="skills-tab" onclick="showTab('savoirfaire')">Professional Skills</button>
-    <button class="skills-tab active" onclick="showTab('technical')">Technical Skills</button>
+    <button class="skills-tab " onclick="showTab('technical')">Technical Skills</button>
     <button class="skills-tab" onclick="showTab('savoiretre')">Soft Skills</button>
   </div>
 

@@ -132,7 +132,7 @@
     .cert-badge.isc { background: #ede9fe; color: #5b21b6; border: 1px solid #8b5cf6; }
     .cert-badge.python { background: #ecfdf5; color: #065f46; border: 1px solid #059669; }
 
-    /* savoir-faire / savoir-être cards */
+    /* savoir-faire / Soft Skills cards */
     .soft-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
     .soft-card { padding: 1.8rem; border: 1px solid rgba(26,86,219,0.15); background: var(--surface); }
     .soft-card-title { font-family: var(--mono); font-size: 0.72rem; color: var(--accent); letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 1.2rem; padding-bottom: 0.7rem; border-bottom: 1px solid rgba(26,86,219,0.15); }
@@ -445,7 +445,7 @@
     <button class="skills-tab active" onclick="showTab('technical')">Technical Skills</button>
     <button class="skills-tab" onclick="showTab('certifications')">Certifications</button>
     <button class="skills-tab" onclick="showTab('savoirfaire')">Savoir-faire</button>
-    <button class="skills-tab" onclick="showTab('savoiretre')">Savoir-être</button>
+    <button class="skills-tab" onclick="showTab('savoiretre')">Soft Skills</button>
   </div>
 
   <!-- Technical -->

@@ -830,14 +830,16 @@
     <h2 class="contact-title">Let's <em style="font-family:var(--serif); font-style:italic; color:var(--accent)">Connect</em></h2>
     <p class="contact-sub">Interested in collaboration, research discussions, or academic opportunities? Reach out.</p>
     <div class="contact-links">
-      <a class="contact-link" href="mailto:adil7attiaoui@gmail.com">✉ adil7attiaoui@gmail.com</a>
-      <a class="contact-link" href="https://www.linkedin.com/in/adil-attiaoui" target="_blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/15430c26-adec-4d06-8d23-b4ed5a68f63a" />
+      <a class="contact-link" href="mailto:adil7attiaoui@gmail.com"><img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/01bc82c2-f623-4334-b88c-70a759f383f2" />
+ adil7attiaoui@gmail.com</a>
+      <a class="contact-link" href="https://www.linkedin.com/in/adil-attiaoui" target="_blank"><img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/15430c26-adec-4d06-8d23-b4ed5a68f63a" />
 
  LinkedIn</a>
-      <a class="contact-link" href="https://www.researchgate.net/profile/Adil-Attiaoui/" target="_blank"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/02c724c2-dee1-4fd8-806e-8ea486f28381" />
+      <a class="contact-link" href="https://www.researchgate.net/profile/Adil-Attiaoui/" target="_blank"><img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/02c724c2-dee1-4fd8-806e-8ea486f28381" />
 
  ResearchGate</a>
-      <a class="contact-link" href="tel:+33765124470">☎ +33 765 124 470</a>
+      <a class="contact-link" href="tel:+33765124470"><img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/07cc08ea-f077-44fd-bc8b-359dd36f5169" />
+ +33 765 124 470</a>
     </div>
   </div>
 </section>

@@ -447,7 +447,37 @@
     <button class="skills-tab " onclick="showTab('technical')">Technical Skills</button>
     <button class="skills-tab" onclick="showTab('savoiretre')">Soft Skills</button>
   </div>
-
+  <!-- Certifications -->
+  <div id="tab-certifications" class="skills-panel">
+    <div class="skill-group">
+      <div class="skill-group-title">Cisco</div>
+      <ul class="cert-list">
+        <li>CCNA: Enterprise Networking, Security &amp; Automation <span class="cert-badge cisco">CISCO</span></li>
+        <li>CCNA: Switching, Routing &amp; Wireless Essentials <span class="cert-badge cisco">CISCO</span></li>
+        <li>Introduction to Networks (ITN) <span class="cert-badge cisco">CISCO</span></li>
+        <li>Network Security <span class="cert-badge cisco">CISCO</span></li>
+      </ul>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-title">Huawei</div>
+      <ul class="cert-list">
+        <li>Huawei Datacom Certification <span class="cert-badge huawei">HUAWEI</span></li>
+        <li>Huawei Cybersecurity Certification <span class="cert-badge huawei">HUAWEI</span></li>
+      </ul>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-title">Security</div>
+      <ul class="cert-list">
+        <li>Certified in Cybersecurity (CC) <span class="cert-badge isc">(ISC)²</span></li>
+      </ul>
+    </div>
+    <div class="skill-group">
+      <div class="skill-group-title">Programming</div>
+      <ul class="cert-list">
+        <li>PCEP – Certified Entry-Level Python Programmer <span class="cert-badge python">PYTHON INSTITUTE</span></li>
+      </ul>
+    </div>
+  </div>
   <!-- Technical -->
   <div id="tab-technical" class="skills-panel active">
     <div class="skill-group">
@@ -504,37 +534,7 @@
     </div>
   </div>
 
-  <!-- Certifications -->
-  <div id="tab-certifications" class="skills-panel">
-    <div class="skill-group">
-      <div class="skill-group-title">Cisco</div>
-      <ul class="cert-list">
-        <li>CCNA: Enterprise Networking, Security &amp; Automation <span class="cert-badge cisco">CISCO</span></li>
-        <li>CCNA: Switching, Routing &amp; Wireless Essentials <span class="cert-badge cisco">CISCO</span></li>
-        <li>Introduction to Networks (ITN) <span class="cert-badge cisco">CISCO</span></li>
-        <li>Network Security <span class="cert-badge cisco">CISCO</span></li>
-      </ul>
-    </div>
-    <div class="skill-group">
-      <div class="skill-group-title">Huawei</div>
-      <ul class="cert-list">
-        <li>Huawei Datacom Certification <span class="cert-badge huawei">HUAWEI</span></li>
-        <li>Huawei Cybersecurity Certification <span class="cert-badge huawei">HUAWEI</span></li>
-      </ul>
-    </div>
-    <div class="skill-group">
-      <div class="skill-group-title">Security</div>
-      <ul class="cert-list">
-        <li>Certified in Cybersecurity (CC) <span class="cert-badge isc">(ISC)²</span></li>
-      </ul>
-    </div>
-    <div class="skill-group">
-      <div class="skill-group-title">Programming</div>
-      <ul class="cert-list">
-        <li>PCEP – Certified Entry-Level Python Programmer <span class="cert-badge python">PYTHON INSTITUTE</span></li>
-      </ul>
-    </div>
-  </div>
+  
 
   <!-- Savoir-faire -->
   <div id="tab-savoirfaire" class="skills-panel">

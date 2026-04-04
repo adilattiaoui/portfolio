@@ -871,7 +871,7 @@
       <a class="contact-link" href="https://www.researchgate.net/profile/Adil-Attiaoui/" target="_blank"><img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/02c724c2-dee1-4fd8-806e-8ea486f28381" />
 
  ResearchGate</a>
-      <a class="contact-link" href="tel:+33765124470"><img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/07cc08ea-f077-44fd-bc8b-359dd36f5169" />
+      <a class="contact-link" href="tel:+33765124470"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/07cc08ea-f077-44fd-bc8b-359dd36f5169" />
  +33 765 124 470</a>
     </div>
   </div>

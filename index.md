@@ -606,28 +606,12 @@
               <div class="soft-desc">Operates fluidly across Moroccan and French academic environments, adapting communication style and expectations to each institutional culture while maintaining a unified research identity.</div>
             </div>
           </div>
-   
-
-          
-          <div class="soft-item">
-            <div class="soft-icon">🤝</div>
-            <div>
-              <div class="soft-label">Collaboration &amp; Team Spirit</div>
-              <div class="soft-desc">Experienced in working within multi-disciplinary teams across two countries (Morocco &amp; France), fostering constructive exchanges between research groups.</div>
-            </div>
-          </div>
+  
           <div class="soft-item">
             <div class="soft-icon">🗣️</div>
             <div>
               <div class="soft-label">Communication</div>
               <div class="soft-desc">Ability to present complex technical concepts clearly to diverse audiences — students, academics, and conference attendees alike.</div>
-            </div>
-          </div>
-          <div class="soft-item">
-            <div class="soft-icon">🌍</div>
-            <div>
-              <div class="soft-label">Intercultural Openness</div>
-              <div class="soft-desc">At ease navigating different academic and cultural environments, enriched by international mobility between Morocco and France.</div>
             </div>
           </div>
         </div>
@@ -717,13 +701,7 @@
               <div class="soft-desc">Conscious of the ethical dimensions of security research — particularly regarding the dual-use nature of misbehavior detection systems, privacy implications in vehicular data sharing, and the responsible deployment of AI-driven decision models in safety-critical transport environments.</div>
             </div>
           </div>
-          <div class="soft-item">
-            <div class="soft-icon">🧭</div>
-            <div>
-              <div class="soft-label">Research Ethics</div>
-              <div class="soft-desc">Committed to reproducibility, proper attribution, and transparent reporting in all scientific work.</div>
-            </div>
-          </div>
+
           <div class="soft-item">
             <div class="soft-icon">🎓</div>
             <div>

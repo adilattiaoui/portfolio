@@ -839,7 +839,7 @@
     <div class="exp-item">
       <div class="exp-date">05/2021 – 07/2021<br>El Jadida, Morocco</div>
       <div>
-        <div class="exp-role">Internship</div>
+        <div class="exp-role">IoT Systems Developer Intern</div>
         <div class="exp-org">E-Viande Company, Zaouiat SIDI ISMAIL</div>
          <div class="exp-org" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">Developed an IoT-based system for monitoring the availability of electrical energy. The solution involved real-time data acquisition from sensors, system integration, and visualization of energy status to improve operational efficiency and reliability. The project demonstrated practical applications of IoT in industrial environments.</div>
       </div>
@@ -847,7 +847,7 @@
     <div class="exp-item">
       <div class="exp-date">10/2019 – Present<br>Essaouira, Morocco</div>
       <div>
-        <div class="exp-role">Member</div>
+        <div class="exp-role">Head of the Project Monitoring and Evaluation Committee</div>
         <div class="exp-org">Forsa Personal Development Association</div>
          <div class="fyp-student" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">Active member of the Projects Monitoring and Evaluation Committee, contributing to the planning, follow-up, and assessment of community and development projects. Participated in organizing activities, supporting team coordination, and improving project impact through structured evaluation processes.</div>
       </div>

@@ -887,69 +887,7 @@
 
 <div class="divider"></div>
 
-<!-- CAREER PROJECT -->
-<section id="career">
-  <div class="section-header">
-    <span class="section-num">07</span>
-    <h2 class="section-title">Career Project</h2>
-    <div class="section-line"></div>
-  </div>
-
-  <div class="about-grid">
-    <div class="about-text">
-      <p>
-        My career objective is to position myself at the intersection of 
-        <strong>cybersecurity, intelligent transportation systems, and distributed artificial intelligence</strong>, 
-        with a particular focus on designing secure and trustworthy cooperative systems.
-      </p>
-
-      <p>
-        Through my PhD research on <strong>misbehavior detection in vehicular collective perception</strong>, 
-        I aim to develop strong expertise in building <strong>resilient, scalable, and explainable security mechanisms</strong> 
-        for decentralized environments such as V2X networks and federated learning systems.
-      </p>
-
-      <p>
-        In the short term, I focus on strengthening my skills in <strong>advanced cybersecurity models</strong>, 
-        <strong>distributed learning architectures</strong>, and <strong>large-scale system validation</strong>.
-      </p>
-
-      <p>
-        In the long term, my goal is to contribute to the development of 
-        <strong>next-generation intelligent and secure infrastructures</strong>, 
-        bridging theoretical models with real-world deployment in autonomous and connected systems.
-      </p>
-    </div>
-
-    <div class="info-grid">
-      <div class="info-item">
-        <span class="info-label">Focus</span>
-        <span class="info-val">Cybersecurity & Distributed AI Systems</span>
-      </div>
-
-      <div class="info-item">
-        <span class="info-label">Domains</span>
-        <span class="info-val">V2X · IoT · Federated Learning</span>
-      </div>
-
-      <div class="info-item">
-        <span class="info-label">Short Term</span>
-        <span class="info-val">Advanced security models & system validation</span>
-      </div>
-
-      <div class="info-item">
-        <span class="info-label">Long Term</span>
-        <span class="info-val">Secure intelligent infrastructures</span>
-      </div>
-
-      <div class="info-item">
-        <span class="info-label">Target Roles</span>
-        <span class="info-val">Research Engineer · Cybersecurity Engineer · AI Systems Engineer</span>
-      </div>
-    </div>
-  </div>
-</section>
-
+Career Project
 
 <!-- CONTACT -->
 <section id="contact">

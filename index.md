@@ -871,10 +871,15 @@
     <div class="section-line"></div>
    <div class="about-grid">
     <div class="about-text">
-      <p>I am a <strong>PhD student</strong> in a co-tutelle program between the National School of Computer Science and Systems Analysis (<strong>ENSIAS</strong>), Mohammed V University in Rabat, Morocco, and the <strong>Institut National des Sciences Appliquées de Hauts-de-France (INSA–UPHF)</strong> in France — specializing in vehicular network security and misbehavior detection.</p>
-      <p>My research focuses on designing robust detection and mitigation mechanisms for <strong>misbehaving nodes in vehicular collective perception systems</strong> — a critical challenge as autonomous vehicles become increasingly reliant on cooperative sensor data.</p>
-      <p>I combine formal approaches from <strong>game theory</strong>, <strong>Bayesian inference</strong>, and <strong>reputation systems</strong> to model adversarial behavior and engineer trust-based defenses for connected vehicle environments.</p>
-      <p>Beyond research, I am an active <strong>teaching assistant</strong> mentoring engineering students in networking, Unix systems, and IoT — and an avid chess player.</p>
+      <p>My career objective is to position myself at the intersection of cybersecurity, intelligent transportation systems, and distributed artificial intelligence, with a particular focus on secure and trustworthy cooperative systems.
+
+Through my PhD research on misbehavior detection in vehicular collective perception, I aim to develop a strong expertise in designing resilient, scalable, and explainable security mechanisms for large-scale, decentralized environments such as V2X networks and federated learning systems.
+
+In the short term, I seek to deepen my expertise in advanced cybersecurity models, distributed learning architectures, and real-world system validation, while contributing to high-impact research and collaborative projects in both academic and industrial contexts.
+
+In the long term, my goal is to contribute to the development of next-generation intelligent and secure infrastructures, whether in academia or industry, by bridging theoretical models (game theory, Bayesian inference) with practical deployments in autonomous systems and connected environments.
+
+I am particularly interested in roles that combine research, system design, and real-world implementation, allowing me to translate scientific insights into robust and deployable solutions.</p>
     </div>
   </div>
      </div>

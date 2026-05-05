@@ -887,8 +887,116 @@
 
 <div class="divider"></div>
 
-Career Project
+<div class="divider"></div>
 
+<!-- CAREER PROJECT -->
+<section id="career">
+  <div class="section-header">
+    <span class="section-num">07</span>
+    <h2 class="section-title">Career Project</h2>
+    <div class="section-line"></div>
+  </div>
+
+  <div class="about-grid">
+    <div class="about-text">
+      <p>
+        My career objective is to evolve at the intersection of 
+        <strong>cybersecurity, intelligent transportation systems, and distributed artificial intelligence</strong>, 
+        with a focus on designing secure and trustworthy cooperative systems.
+      </p>
+
+      <p>
+        Through my PhD research on <strong>misbehavior detection in vehicular collective perception</strong>, 
+        I aim to develop expertise in building <strong>robust, scalable, and explainable security mechanisms</strong> 
+        for decentralized environments such as V2X networks and federated learning systems.
+      </p>
+
+      <p>
+        In the long term, my goal is to contribute to the development of 
+        <strong>next-generation intelligent infrastructures</strong>, bridging theoretical models with 
+        real-world deployment in autonomous and connected environments.
+      </p>
+    </div>
+
+    <div class="info-grid">
+      <div class="info-item">
+        <span class="info-label">Focus</span>
+        <span class="info-val">Cybersecurity · Distributed AI</span>
+      </div>
+
+      <div class="info-item">
+        <span class="info-label">Domains</span>
+        <span class="info-val">V2X · IoT · Federated Learning</span>
+      </div>
+
+      <div class="info-item">
+        <span class="info-label">Positioning</span>
+        <span class="info-val">Research Engineer / AI Systems</span>
+      </div>
+
+      <div class="info-item">
+        <span class="info-label">Objective</span>
+        <span class="info-val">Secure large-scale distributed systems</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ACTION PLAN -->
+<section id="action-plan">
+  <div class="section-header">
+    <span class="section-num">08</span>
+    <h2 class="section-title">Action Plan</h2>
+    <div class="section-line"></div>
+  </div>
+
+  <div class="skills-panel active">
+
+    <div class="skill-group">
+      <div class="skill-group-title">Advanced Scientific Skills</div>
+      <ul class="cert-list">
+        <li>Deepening expertise in cybersecurity for distributed systems (V2X, IoT)</li>
+        <li>Advanced federated learning security (robustness, adversarial attacks)</li>
+        <li>Game theory and Bayesian modeling for adversarial environments</li>
+        <li>Machine learning for anomaly and misbehavior detection</li>
+      </ul>
+    </div>
+
+    <div class="skill-group">
+      <div class="skill-group-title">Engineering & Implementation</div>
+      <ul class="cert-list">
+        <li>Large-scale simulation (NS-3, Veins, SUMO)</li>
+        <li>Distributed systems implementation (federated learning pipelines)</li>
+        <li>Advanced Python and ML frameworks (PyTorch, TensorFlow)</li>
+        <li>Blockchain integration for secure decentralized architectures</li>
+        <li>Linux systems and network-level experimentation</li>
+      </ul>
+    </div>
+
+    <div class="skill-group">
+      <div class="skill-group-title">System Validation & Deployment</div>
+      <ul class="cert-list">
+        <li>Design of reproducible experimental protocols</li>
+        <li>Performance evaluation in realistic environments</li>
+        <li>Scalability and robustness analysis of distributed systems</li>
+        <li>Bridging simulation results with real-world constraints</li>
+      </ul>
+    </div>
+
+    <div class="skill-group">
+      <div class="skill-group-title">Professional Development</div>
+      <ul class="cert-list">
+        <li>Scientific writing and publication in high-impact venues</li>
+        <li>International collaboration and research coordination</li>
+        <li>Teaching, mentoring, and knowledge transfer</li>
+        <li>Project management in multidisciplinary environments</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
 <!-- CONTACT -->
 <section id="contact">
   <div class="contact-inner">

@@ -172,7 +172,13 @@
     .exp-date { font-family: var(--mono); font-size: 0.72rem; color: var(--accent); letter-spacing: 0.08em; line-height: 1.5; padding-top: 0.2rem; }
     .exp-role { font-weight: 500; margin-bottom: 0.3rem; color: var(--text); }
     .exp-org { font-size: 0.85rem; color: var(--muted); }
-
+    /* projetpro */
+    #projetpro .exp-list { display: grid; gap: 1.5rem; }
+    .exp-item { display: grid; grid-template-columns: 160px 1fr; gap: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid rgba(26,86,219,0.12); }
+    .exp-item:last-child { border-bottom: none; }
+    .exp-date { font-family: var(--mono); font-size: 0.72rem; color: var(--accent); letter-spacing: 0.08em; line-height: 1.5; padding-top: 0.2rem; }
+    .exp-role { font-weight: 500; margin-bottom: 0.3rem; color: var(--text); }
+    .exp-org { font-size: 0.85rem; color: var(--muted); }
     /* CONTACT */
     #contact { text-align: center; padding-bottom: 8rem; }
     #contact .contact-inner { max-width: 600px; margin: 0 auto; }
@@ -856,6 +862,48 @@
 </section>
 
 <div class="divider"></div>
+
+
+<!-- projetpro -->
+<section id="projetpro">
+  <div class="section-header">
+    <span class="section-num">06</span>
+    <h2 class="section-title">Career Project </h2>
+    <div class="section-line"></div>
+  </div>
+  <div class="exp-list">
+    <div class="exp-item">
+      <div class="exp-date">03/2023 – 10/2023<br>ENSIAS, Rabat</div>
+      <div>
+        <div class="exp-role">Research Internship</div>
+        <div class="exp-org">Laboratory of ENSIAS — National School of Computer Science and Systems Analysis</div>
+         <div class="fyp-student" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">Conducted research on a blockchain-enabled defense mechanism for securing federated learning systems against malicious node updates. The work focused on enhancing trust, integrity, and robustness in decentralized learning environments by detecting and mitigating adversarial contributions. Implemented and evaluated security strategies combining federated learning with blockchain technologies to ensure reliable model aggregation.</div>
+      </div>
+    </div>
+    <div class="exp-item">
+      <div class="exp-date">05/2021 – 07/2021<br>El Jadida, Morocco</div>
+      <div>
+        <div class="exp-role">IoT Systems Developer Intern</div>
+        <div class="exp-org">E-Viande Company, Zaouiat SIDI ISMAIL</div>
+         <div class="exp-org" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">Developed an IoT-based system for monitoring the availability of electrical energy. The solution involved real-time data acquisition from sensors, system integration, and visualization of energy status to improve operational efficiency and reliability. The project demonstrated practical applications of IoT in industrial environments.</div>
+      </div>
+    </div>
+    <div class="exp-item">
+      <div class="exp-date">10/2019 – Present<br>Essaouira, Morocco</div>
+      <div>
+        <div class="exp-role">Head of the Project Monitoring and Evaluation Committee</div>
+        <div class="exp-org">Forsa Personal Development Association</div>
+         <div class="fyp-student" style="margin-top:0.3rem; font-size:0.82rem; color:var(--muted);">Active member of the Projects Monitoring and Evaluation Committee, contributing to the planning, follow-up, and assessment of community and development projects. Participated in organizing activities, supporting team coordination, and improving project impact through structured evaluation processes.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+
+
+
 
 <!-- CONTACT -->
 <section id="contact">
